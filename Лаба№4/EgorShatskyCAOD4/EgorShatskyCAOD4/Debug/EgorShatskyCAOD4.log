@@ -1,0 +1,6 @@
+﻿  EgorShatskyCAOD4.cpp
+C:\Users\icewi\OneDrive\Рабочий стол\СИАОД\Лаба№4\EgorShatskyCAOD4\EgorShatskyCAOD4\EgorShatskyCAOD4.cpp(86): warning C4715: List<char>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\icewi\OneDrive\Рабочий стол\СИАОД\Лаба№4\EgorShatskyCAOD4\EgorShatskyCAOD4\EgorShatskyCAOD4.cpp(86): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\icewi\OneDrive\Рабочий стол\СИАОД\Лаба№4\EgorShatskyCAOD4\EgorShatskyCAOD4\EgorShatskyCAOD4.cpp(86): warning C4715: List<bool>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\icewi\OneDrive\Рабочий стол\СИАОД\Лаба№4\EgorShatskyCAOD4\EgorShatskyCAOD4\EgorShatskyCAOD4.cpp(86): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+  EgorShatskyCAOD4.vcxproj -> C:\Users\icewi\OneDrive\Рабочий стол\СИАОД\Лаба№4\EgorShatskyCAOD4\Debug\EgorShatskyCAOD4.exe
